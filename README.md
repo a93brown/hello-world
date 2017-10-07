@@ -1,2 +1,3 @@
 # hello-world
-This is a starter project for the hello-world feature
+This is the starter project for github
+I am an entry level developer
